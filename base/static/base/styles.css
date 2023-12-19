@@ -1,0 +1,27 @@
+/* styles.css */
+
+body {
+    background-color: #f0f7ff;
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 50px auto;
+    background-color: #ffffff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+}
+
+h1 {
+    color: #3498db;
+}
+
+p {
+    color: #333;
+}
+
+/* Otros estilos según tus necesidades */
+
